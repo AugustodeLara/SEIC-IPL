@@ -26,3 +26,6 @@ Technologies used
 - JavaScript
 
 ![image](https://user-images.githubusercontent.com/32024026/190044773-17a595f8-1df9-4f3a-992e-d6244cfae797.png)
+
+
+In the DOCS folder there is a detailed document of the project operation.

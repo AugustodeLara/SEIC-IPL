@@ -10,7 +10,8 @@ general functionalities of the system and in order to facilitate the evolution o
 devices such as temperature sensor, brightness, pi Mplab, Pic8F, Raspberry,
 Usb-uart, Pickit4, ESP32 and DH11.
 
-![image](https://user-images.githubusercontent.com/32024026/190044926-6bb3625d-3857-47b4-91ba-db513941b429.png)
+![image](https://user-images.githubusercontent.com/32024026/190268413-90d56275-0519-4cb5-98bd-9bbb8661efd7.png)
+
 
 Technologies used
 
